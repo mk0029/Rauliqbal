@@ -1,0 +1,9 @@
+.translat {
+    transform: translateX(-50%);
+}
+
+.box {
+    background: #FFFFFF;
+    box-shadow: 0px 5px 26px 5px rgba(0, 0, 0, 0.17);
+    border-radius: 13px;
+}
